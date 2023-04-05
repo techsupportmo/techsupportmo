@@ -1,6 +1,6 @@
 ### hello
 
-###  [https://techsupportmo.github.io]( https://techsupportmo.github.io )
+###  [https://mohammedahmed.net]( mohammedahmed.net )
 
 <!--
 **techsupportmo/techsupportmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
